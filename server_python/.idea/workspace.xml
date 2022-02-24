@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfad21e3-7614-4538-9195-60947b80d6c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25SnjCOAO7PIcGulzhaKbTWGRcx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/keras-yolo4-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="convert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.convert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfad21e3-7614-4538-9195-60947b80d6c6" name="Default Changelist" comment="" />
+      <created>1645529487184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645529487184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1076" y="286" key="FileChooserDialogImpl" timestamp="1645690422504">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1076" y="286" key="FileChooserDialogImpl/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1645690422504" />
+    <state width="1649" height="268" key="GridCell.Tab.0.bottom" timestamp="1645741133119">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1645687991175" />
+    <state width="1649" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1645741133119" />
+    <state width="1649" height="268" key="GridCell.Tab.0.center" timestamp="1645741133119">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.center/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1645687991174" />
+    <state width="1649" height="268" key="GridCell.Tab.0.center/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1645741133119" />
+    <state width="1649" height="268" key="GridCell.Tab.0.left" timestamp="1645741133119">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.left/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1645687991174" />
+    <state width="1649" height="268" key="GridCell.Tab.0.left/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1645741133119" />
+    <state width="1649" height="268" key="GridCell.Tab.0.right" timestamp="1645741133119">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.right/0.0.1920.1032/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1645687991175" />
+    <state width="1649" height="268" key="GridCell.Tab.0.right/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1645741133119" />
+    <state x="279" y="227" key="SettingsEditor" timestamp="1645690740546">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="279" y="227" key="SettingsEditor/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1645690740546" />
+    <state x="679" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1645693331273">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="679" y="376" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1645693331273" />
+  </component>
+</project>
